@@ -1,0 +1,66 @@
+_repo: The-Book-of-Ballads-edited-by-Bon-Gaultier--pseud.-_20477
+_version: 0.1.0
+alternative_title: Bon Gaultier Ballads
+contributor:
+  illustrators:
+  - agent_name: Crowquill, Alfred
+    birthdate: 1804
+    deathdate: 1872
+    gutenberg_agent_id: '3698'
+    url: http://www.gutenberg.org/2009/agents/3698
+  - agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+  - agent_name: Doyle, Richard
+    aliases:
+    - Doyle, R. (Richard)
+    - Kitcat, Dick
+    birthdate: 1824
+    deathdate: 1883
+    gutenberg_agent_id: '9472'
+    url: http://www.gutenberg.org/2009/agents/9472
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
+covers:
+- cover_type: archival
+  image_path: 20477-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Aytoun, William Edmondstoune
+    aliases:
+    - Aytoun, W. Edmondstoune (William Edmondstoune)
+    - Aytoun, W. E. (William Edmondstoune)
+    - Jones, T. Percy
+    birthdate: 1813
+    deathdate: 1865
+    gutenberg_agent_id: '3764'
+    url: http://www.gutenberg.org/2009/agents/3764
+    wikipedia: http://en.wikipedia.org/wiki/William_Edmonstoune_Aytoun
+  - agent_name: Martin, Theodore, Sir
+    aliases:
+    - Gaultier, Bon
+    - Martin, Sir Theodore
+    birthdate: 1816
+    deathdate: 1909
+    gutenberg_agent_id: '2404'
+    url: http://www.gutenberg.org/2009/agents/2404
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Martin
+description: ''
+gutenberg_issued: '2007-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20477'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parodies'
+- !lcc 'PR'
+tableOfContents: Spanish ballads -- American ballads -- Miscellaneous ballads -- Illustrations
+  of the puff poetical -- Miscellaneous poems.
+title: The Book of Ballads, edited by Bon Gaultier [pseud.]
+url: http://www.gutenberg.org/ebooks/20477
