@@ -49,6 +49,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2404
     wikipedia: http://en.wikipedia.org/wiki/Theodore_Martin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20477#The-Book-of-Ballads-edited-by-Bon-Gaultier--pseud.-
 gutenberg_issued: '2007-01-28'
 gutenberg_type: Text
 identifiers:
